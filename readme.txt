@@ -9,4 +9,5 @@
 aaaaaaaa
 bbbbbbbb
 cccccccc
-╫ЯлЛЁтак
+О╫╫Н┘┤О©╫О╬■О╬│О╬▀
+print
