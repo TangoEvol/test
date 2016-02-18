@@ -8,4 +8,9 @@
 99999999
 aaaaaaaa
 bbbbbbbb
+<<<<<<< HEAD
 echo
+=======
+
+print
+>>>>>>> origin/master
