@@ -8,5 +8,4 @@
 99999999
 aaaaaaaa
 bbbbbbbb
-cccccccc
-╫ЯлЛЁтак
+echo
