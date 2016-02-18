@@ -9,4 +9,4 @@
 aaaaaaaa
 bbbbbbbb
 cccccccc
-今天吃了肯德基
+今天吃了
