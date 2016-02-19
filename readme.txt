@@ -18,4 +18,10 @@ bug
 9bug
 success
 gelei
+<<<<<<< HEAD
 1
+=======
+end
+123
+222
+>>>>>>> refs/remotes/origin/anthor
